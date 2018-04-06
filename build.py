@@ -29,10 +29,13 @@ colors = dict(
 def split_rgb(colors):
     colors_list = list(colors.items())
     for k, v in colors_list:
-        r, g, b = tuple(int(v[i:i + 2], 16) for i in (0, 2, 4))
-        colors[k + '_r'] = r / 255
-        colors[k + '_g'] = g / 255
-        colors[k + '_b'] = b / 255
+        r, g, b = tuple(v[i:i + 2] for i in (0, 2, 4))
+        colors[k + '_hex_r'] = r
+        colors[k + '_hex_g'] = g
+        colors[k + '_hex_b'] = b
+        colors[k + '_dec_r'] = int(r, 16) / 255
+        colors[k + '_dec_g'] = int(g, 16) / 255
+        colors[k + '_dec_b'] = int(b, 16) / 255
 
 
 if __name__ == '__main__':
@@ -41,6 +44,7 @@ if __name__ == '__main__':
     for template_filename in (
         'colors/base16-tm.vim',
         'base16-tm.itermcolors',
+        'base16-tm.sh',
     ):
         template = env.get_template(template_filename)
         with open(template_filename, 'w') as f:

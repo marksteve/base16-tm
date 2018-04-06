@@ -12,253 +12,253 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base00_b}}</real>
+		<real>{{base00_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base00_g}}</real>
+		<real>{{base00_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base00_r}}</real>
+		<real>{{base00_dec_r}}</real>
 	</dict>
 	<key>Ansi 1 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base08_b}}</real>
+		<real>{{base08_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base08_g}}</real>
+		<real>{{base08_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base08_r}}</real>
+		<real>{{base08_dec_r}}</real>
 	</dict>
 	<key>Ansi 10 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base0B_b}}</real>
+		<real>{{base0B_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base0B_g}}</real>
+		<real>{{base0B_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base0B_r}}</real>
+		<real>{{base0B_dec_r}}</real>
 	</dict>
 	<key>Ansi 11 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base0A_b}}</real>
+		<real>{{base0A_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base0A_g}}</real>
+		<real>{{base0A_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base0A_r}}</real>
+		<real>{{base0A_dec_r}}</real>
 	</dict>
 	<key>Ansi 12 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base0D_b}}</real>
+		<real>{{base0D_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base0D_g}}</real>
+		<real>{{base0D_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base0D_r}}</real>
+		<real>{{base0D_dec_r}}</real>
 	</dict>
 	<key>Ansi 13 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base0E_b}}</real>
+		<real>{{base0E_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base0E_g}}</real>
+		<real>{{base0E_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base0E_r}}</real>
+		<real>{{base0E_dec_r}}</real>
 	</dict>
 	<key>Ansi 14 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base0C_b}}</real>
+		<real>{{base0C_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base0C_g}}</real>
+		<real>{{base0C_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base0C_r}}</real>
+		<real>{{base0C_dec_r}}</real>
 	</dict>
 	<key>Ansi 15 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base07_b}}</real>
+		<real>{{base07_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base07_g}}</real>
+		<real>{{base07_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base07_r}}</real>
+		<real>{{base07_dec_r}}</real>
 	</dict>
 	<key>Ansi 2 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base0B_b}}</real>
+		<real>{{base0B_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base0B_g}}</real>
+		<real>{{base0B_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base0B_r}}</real>
+		<real>{{base0B_dec_r}}</real>
 	</dict>
 	<key>Ansi 3 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base0A_b}}</real>
+		<real>{{base0A_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base0A_g}}</real>
+		<real>{{base0A_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base0A_r}}</real>
+		<real>{{base0A_dec_r}}</real>
 	</dict>
 	<key>Ansi 4 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base0D_b}}</real>
+		<real>{{base0D_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base0D_g}}</real>
+		<real>{{base0D_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base0D_r}}</real>
+		<real>{{base0D_dec_r}}</real>
 	</dict>
 	<key>Ansi 5 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base0E_b}}</real>
+		<real>{{base0E_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base0E_g}}</real>
+		<real>{{base0E_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base0E_r}}</real>
+		<real>{{base0E_dec_r}}</real>
 	</dict>
 	<key>Ansi 6 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base0C_b}}</real>
+		<real>{{base0C_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base0C_g}}</real>
+		<real>{{base0C_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base0C_r}}</real>
+		<real>{{base0C_dec_r}}</real>
 	</dict>
 	<key>Ansi 7 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base05_b}}</real>
+		<real>{{base05_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base05_g}}</real>
+		<real>{{base05_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base05_r}}</real>
+		<real>{{base05_dec_r}}</real>
 	</dict>
 	<key>Ansi 8 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base03_b}}</real>
+		<real>{{base03_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base03_g}}</real>
+		<real>{{base03_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base03_r}}</real>
+		<real>{{base03_dec_r}}</real>
 	</dict>
 	<key>Ansi 9 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base08_b}}</real>
+		<real>{{base08_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base08_g}}</real>
+		<real>{{base08_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base08_r}}</real>
+		<real>{{base08_dec_r}}</real>
 	</dict>
 	<key>Background Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base00_b}}</real>
+		<real>{{base00_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base00_g}}</real>
+		<real>{{base00_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base00_r}}</real>
+		<real>{{base00_dec_r}}</real>
 	</dict>
 	<key>Bold Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base05_b}}</real>
+		<real>{{base05_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base05_g}}</real>
+		<real>{{base05_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base05_r}}</real>
+		<real>{{base05_dec_r}}</real>
 	</dict>
 	<key>Cursor Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base05_b}}</real>
+		<real>{{base05_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base05_g}}</real>
+		<real>{{base05_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base05_r}}</real>
+		<real>{{base05_dec_r}}</real>
 	</dict>
 	<key>Cursor Text Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base00_b}}</real>
+		<real>{{base00_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base00_g}}</real>
+		<real>{{base00_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base00_r}}</real>
+		<real>{{base00_dec_r}}</real>
 	</dict>
 	<key>Foreground Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base05_b}}</real>
+		<real>{{base05_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base05_g}}</real>
+		<real>{{base05_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base05_r}}</real>
+		<real>{{base05_dec_r}}</real>
 	</dict>
 	<key>Selected Text Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base05_b}}</real>
+		<real>{{base05_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base05_g}}</real>
+		<real>{{base05_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base05_r}}</real>
+		<real>{{base05_dec_r}}</real>
 	</dict>
 	<key>Selection Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>{{base02_b}}</real>
+		<real>{{base02_dec_b}}</real>
 		<key>Green Component</key>
-		<real>{{base02_g}}</real>
+		<real>{{base02_dec_g}}</real>
 		<key>Red Component</key>
-		<real>{{base02_r}}</real>
+		<real>{{base02_dec_r}}</real>
 	</dict>
 </dict>
 </plist>
