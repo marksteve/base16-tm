@@ -1,6 +1,6 @@
 # base16-tm
 
-Base16 themes using TM colors
+Base16 themes using [Thinking Machines](https://thinkingmachin.es) colors
 
 ![Screenshot](screenshots/iterm2.png)
 
