@@ -2,6 +2,8 @@
 
 Base16 themes using TM colors
 
+![Screenshot](screenshots/iterm2.png)
+
 ## iTerm2
 
 Open `base16-tm.itermcolors`
