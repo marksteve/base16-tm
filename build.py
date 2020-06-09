@@ -1,28 +1,28 @@
 from jinja2 import Environment, FileSystemLoader
 
 colors = dict(
-    base00='020202',         # Black
-    base08='ef4631',         # Red
-    base0B='04e34d',         # Green
-    base0A='f7bb09',         # Yellow
-    base0D='2292ec',         # Blue
-    base0E='3f50b0',         # Magenta
-    base0C='10b9ce',         # Cyan
-    base05='b4b4b4',         # White
-    base03='3c3a3b',         # Bright Black
-    base08_bright='f47f71',  # Bright Red
-    base0B_bright='68ea74',  # Bright Green
-    base0A_bright='ffb478',  # Bright Yellow
-    base0D_bright='2292ec',  # Bright Blue
-    base0E_bright='7a86c8',  # Bright Magenta
-    base0C_bright='72dde9',  # Bright Cyan
+    base00='3c3a3b',         # Black
+    base01='5f5d5e',
+    base02='858384',
+    base03='acaaab',         # Bright Black
+    base04='d6d3d5',
+    base05='ededed',         # White
+    base06='f2f2f2',
     base07='ffffff',         # Bright White
-    base09='ff9138',
-    base0F='ffb478',
-    base01='020202',
-    base02='3c3a3b',
-    base04='b4b4b4',
-    base06='ffffff',
+    base08='ef4631',         # Red
+    base0B='5ec84e',         # Green
+    base0A='f3a258',         # Yellow
+    base0D='5268b4',         # Blue
+    base0E='be48ad',         # Magenta
+    base0C='53bed0',         # Cyan
+    base08_bright='e29294',  # Bright Red
+    base0B_bright='cacd84',  # Bright Green
+    base0A_bright='eac1b5',  # Bright Yellow
+    base0D_bright='aa89c1',  # Bright Blue
+    base0E_bright='d386b6',  # Bright Magenta
+    base0C_bright='bbc6e7',  # Bright Cyan
+    base09='f3a258',         # Integers, Boolean, Constants, XML Attributes, Markup Link Url
+    base0F='eac1b5',         # Deprecated, Opening/Closing Embedded Language Tags
 )
 
 
