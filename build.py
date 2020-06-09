@@ -1,14 +1,14 @@
 from jinja2 import Environment, FileSystemLoader
 
 colors = dict(
-    base00='3c3a3b',         # Black
-    base01='5f5d5e',
-    base02='858384',
-    base03='acaaab',         # Bright Black
-    base04='d6d3d5',
-    base05='ededed',         # White
-    base06='f2f2f2',
-    base07='ffffff',         # Bright White
+    base00='000000',         # Black
+    base01='3c3a3b',
+    base02='5f5d5e',
+    base03='858384',         # Bright Black
+    base04='acaaab',
+    base05='d6d3d5',         # White
+    base06='ededed',
+    base07='f2f2f2',         # Bright White
     base08='ef4631',         # Red
     base0B='5ec84e',         # Green
     base0A='f3a258',         # Yellow
